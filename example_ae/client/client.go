@@ -9,11 +9,12 @@
 package main
 
 import (
-	"github.com/pguelpa/go-rpcgen/example_ae/whoami"
-	"github.com/pguelpa/go-rpcgen/webrpc"
 	"log"
 	"net/url"
 	"os"
+
+	"github.com/pguelpa/go-rpcgen/example_ae/whoami"
+	"github.com/pguelpa/go-rpcgen/webrpc"
 )
 
 func main() {
