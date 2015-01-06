@@ -13,8 +13,8 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/shopkeep/go-rpcgen/example_ae/whoami"
-	"github.com/shopkeep/go-rpcgen/webrpc"
+	"github.com/pguelpa/go-rpcgen/example_ae/whoami"
+	"github.com/pguelpa/go-rpcgen/webrpc"
 )
 
 func main() {

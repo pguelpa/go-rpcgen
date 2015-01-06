@@ -14,7 +14,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/shopkeep/go-rpcgen/examples/add/addservice"
+	"github.com/pguelpa/go-rpcgen/examples/add/addservice"
 )
 
 var (
